@@ -1,0 +1,11 @@
+{
+  "id": "shiftly",
+  "assetsFolder": "/images/shiftly-project/",
+  "images": ["portal.png", "portal2.png", "contract.png", "register.png", "apply.gif", "salary.gif", "accept.gif", "rating.gif"],
+  "headerImage": "thumb_portal.png",
+  "title": "Shiftly",
+  "link": "https://www.shiftly.nl/",
+  "introText": "Shiftly is een matching-platform waarmee werknemers shifts kunnen draaien in de horeca. Horeca bedrijven kunnen deze shifts zelf plaatsen, waarna de werknemers ze te zien krijgen in het shift overzicht. Hier kunnen ze solliciteren op een shift en kan de werkgever de geschikte kandidaat uitkiezen.",
+  "content": "Shiftly is een matching-platform waarmee werknemers shifts kunnen draaien in de horeca. Horeca bedrijven kunnen deze shifts zelf plaatsen, waarna de werknemers ze te zien krijgen in het shift overzicht. Hier kunnen ze solliciteren op een shift en kan de werkgever de geschikte kandidaat uitkiezen.\n\nHet volledige registratieproces van de werknemers loopt via de app. Zij scannen hun paspoort/ID welke automatisch wordt gecheckt op geldigheid en toestemming om te werken in Nederland. Vervolgens wordt er een contract gegenereerd welke ook rechtstreeks in de app getekend kan worden. Dit zorgt ervoor dat de werknemer binnen enkele minuten aan de slag kan met het draaien van shifts. Na het draaien van een shift boekt de werknemer zijn uren in de app, welke geverifieerd worden door de werkgever. Tenslotte geven beide partijen elkaar een review.\n\nVoor dit project kwamen veel disciplines samen. Er werd een .NET WebApi geschreven met connecties tot verschillende externe services. De app is gemaakt met het Ionic Framework en is beschikbaar in de Google Play Store en de Apple App Store. Ook is er een bedrijfswebsite ontwikkeld, welke beheerd kan worden met het Umbraco CMS. Dit volledige project heb ik uitgedacht en ontwikkeld met mijn collega-developer.",
+  "techniques": ["C#", ".NET 4.6", "Entity Framework", "Ionic Framework", "Umbraco CMS", "TeamCity CI", "VPS hosting"]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "zwk",
+  "assetsFolder": "/images/zwk-project/",
+  "images": ["cook-search.png", "admin.png", "meetings.png", "invite.png", "cook-detail.png", "invites.png"],
+  "headerImage": "thumb_cook-search.png",
+  "link": "https://mijn.zelfstandigwerkendkok.nl/",
+  "title": "Zelfstandigwerkendkok",
+  "introText": "Zelfstandigwerkendkok.nl (ZWK) is een platform welke gebruikt kan worden door horeca gelegenheden om koks te vinden. In tegenstelling tot een gebruikelijke vacature site waar de bedrijven hun vacatures plaatsen, zijn het op ZWK de koks die zichzelf aanbieden.",
+  "content": "Zelfstandigwerkendkok.nl (ZWK) is een platform welke gebruikt kan worden door horeca gelegenheden om koks te vinden. In tegenstelling tot een gebruikelijke vacature site waar de bedrijven hun vacatures plaatsen, zijn het op ZWK de koks die zichzelf aanbieden. Zo kunnen de bedrijven op zoek naar de kok die bij hun bedrijf past. Wanneer ze de geschikte kandidaat gevonden hebben, kunnen ze de kok uitnodigen voor een gesprek. ZWK biedt hierin hun service door middel van bemiddeling tussen de kok en het bedrijf. Ik was betrokken bij de ontwikkeling van het platform op mijn.zelfstandigwerkendkok.nl. De WordPress site is ontwikkeld door een externe partij en hierbij was ik niet betrokken.\n\nOmdat de bemiddeling onderdeel is van de core business van ZWK is er een uitgebreid admin panel ontwikkeld waarin de werknemers, bedrijven en uitnodigingen beheerd kunnen worden. Het platform is ontwikkeld met het Angular Framework welke communiceert met een .NET Core WebApi. Hosting wordt verzorgd door Azure in de vorm van een App Service, waar de applicatie draait in een Docker container. Dit volledige project heb ik uitgedacht en ontwikkeld met mijn collega-developer.",
+  "techniques": ["C#", ".NET Core", "Entity Framework", "Angular Framework", "Docker", "Azure App Service", "Azure Pipelines"]
+}

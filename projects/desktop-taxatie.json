@@ -1,0 +1,11 @@
+{
+    "id": "desktop-taxatie",
+    "assetsFolder": "/images/desktop-taxatie-project/",
+    "images": ["overview.png"],
+    "headerImage": "thumb_overview.png",
+    "title": "Desktop Taxatie",
+    "link": "https://www.desktoptaxatie.nl/",
+    "introText": "Desktop Taxatie is een oplossing voor het volledig digitaal verkrijgen van de taxatie van een woning. Hierbij wordt gebruik gemaakt van de modelwaarde van Calcasa en de expertise van onafhankelijke taxateurs.",
+    "content": "Desktop Taxatie is een oplossing voor het volledig digitaal verkrijgen van de taxatie van een woning. Hierbij wordt gebruik gemaakt van de modelwaarde van Calcasa en de expertise van onafhankelijke taxateurs. Hierbij vraagt een klant een waardering aan welke eerst wordt getoetst aan de hand van regels opgesteld door geldverstrekkers. Vervolgens wordt er een modelwaarde berekend en wordt deze waarde voorgesteld aan een onafhankelijk taxateur. Deze beoordeelt de waarde op afstand aan de hand van een grote hoeveelheid data over de woning. Hiermee is het mogelijk om binnen 4 werkuren een taxatierapport te ontvangen voor een fractie van de prijs van een fysieke taxatie.\n\nIk was betrokken bij zowel de frontend als de backend ontwikkeling van deze applicatie. Hierbij heb ik gewerkt aan alle aspecten van het proces, van de aanvraag en betaling tot aan het genereren van het PDF-rapport. Daarvoor werd een breed scala aan technieken gebruikt waar ik dus ervaring mee opgedaan heb.",
+    "techniques": ["C#", ".NET 6", "Entity Framework", "gRPC", "Angular", "Kubernetes", "Azure"]
+}
